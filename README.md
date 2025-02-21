@@ -1,24 +1,26 @@
+<br clear="both">
+
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="360" src="https://i.pinimg.com/736x/31/dc/9d/31dc9d901456846c66c41d3f36e6f8ed.jpg"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://discord.gg/9YVfe5aUka" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/cisneros_andres.23/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSGLPkPvQvJlkxctWZNrvPVDfJpWfDXqwGqTKVLWnKNrgHKxhxwrzxTfgrwMHncNqVlZvsfl" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hi! 👋</h1>
 
 ###
 
@@ -26,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Colombian (viva colombia, viva falcao) br><br>- 🔭I am the lead developer of the "Edalu" project<br>- 📚 I'm currently learning everythings<br>- ⚡ In my free time I study in high school CR</p>
+<p align="left">I'm from Colombia (Viva Colombia, Viva Falcao)<br><br>- 🔭 I am the lead developer of the "Edalu" project<br>- 📚 I'm currently learning everythings<br>- ⚡ In my free time I study in high school</p>
 
 ###
 
@@ -35,11 +37,17 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height="40" alt="html logo"/><img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="40" alt="js logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webflow/webflow-original.svg" height="40" alt="webflow logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="40" alt="webflow logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Luis-andtes/Luis-andtes/output/snake.svg" alt="Snake animation" />
+
+###
