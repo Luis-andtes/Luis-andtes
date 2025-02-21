@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Colombian (viva colombia, viva falcao) br><br>- 🔭I'm working on my SENA project, I am the lead developer of the "Edalu" project<br>- 📚 I'm currently learning everythings<br>- ⚡ In my free time I study in high school CR</p>
+<p align="left">I'm Colombian (viva colombia, viva falcao) br><br>- 🔭I am the lead developer of the "Edalu" project<br>- 📚 I'm currently learning everythings<br>- ⚡ In my free time I study in high school CR</p>
 
 ###
 
