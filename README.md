@@ -1,10 +1,4 @@
-<br clear="both">
 
-<div align="center">
-  <img height="360" src="https://i.pinimg.com/736x/31/dc/9d/31dc9d901456846c66c41d3f36e6f8ed.jpg"  />
-</div>
-
-###
 
 <div align="center">
   <a href="https://discord.gg/9YVfe5aUka" target="_blank">
