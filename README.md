@@ -1,13 +1,17 @@
 
 <br clear="both">
 
-<img align="right" height="480" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif"  />
+<div align="center">
+  <img height="" src="https://i.pinimg.com/736x/46/bc/88/46bc8852174a30209be84a3fa9a14c22.jpg"  />
+</div>
 
 ###
 
 <h1 align="center">hi, i am Cisneros! 👋</h1>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://discord.gg/9YVfe5aUka" target="_blank">
