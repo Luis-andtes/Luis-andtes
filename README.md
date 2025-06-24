@@ -1,10 +1,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="" src="https://i.pinimg.com/736x/c2/9c/e1/c29ce10abcfc6efc271d1e26eabb8a37.jpg"  />
-</div>
-
 ###
 
 <h1 align="center">hi, i am Cisneros! 👋</h1>
