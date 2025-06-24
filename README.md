@@ -3,7 +3,7 @@
 
 ###
 
-<h1 align="center">hi, i am Cisneros! 👋</h1>
+<h1 align="center">Hi, I am  Andrés Cisneros! 👋</h1>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm from Colombia (Viva Colombia, Viva Falcao)<br><br>- 🔭 I am the lead developer of the "Edalu" project<br><br>- 📚 I'm currently learning everythings<br><br>- ⚡ In my free time I study in high school</p>
+<p align="left">I'm from Colombia<br><br>- 🔭 I am the lead developer of the "Edalu" project<br><br>- 📚 I'm currently learning everythings<br><br>- ⚡ In my free time I study in high school</p>
 
 ###
 
